@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title class="title">Our Environment</title>
+  <h1><u>OUR ENVIRONMENT</U></H1>
+</head>
+<header id="head">
+ 
+<ul>
+  <li> Environment means everything which surrounds us. </li>
+  <li>It may include living (biotic) and non-living (abiotic) components.<ul>
+    <li>Biotic : Plants and animals.</li><li> Abiotic : Air, water etc.</li></ul></li>
+  
+  <li><u>Environment</u>affect the life and development of an organism in its natural habitat & vice a versa.</li>
+  <li><u>Substances</u> that can be decomposed by the action of micro-organism like bacteria are called bio-degredable. E.g. organic wastes.
+Substances which cannot be decomposed by the action of microorganisms are called non-biodegradable.</li>
+  <ul>
+<li>Example of biodegradable wastes : cattle dung, cotton, jute, paper, fruit and vegetable peels, leaves etc.</li>
+<li>Examples of non-biodegradable wastes : plastics, polythene bags, synthetic fibres, metals, radioactive wastes.</li>
+  </ul>
+  <h3>ECO SYSTEM & ITS COMPONENT</h3>
+<p>All the interacting living organisms in an area together with non living components form an ecosystem.</p>
+  <p>So an ecosystem consists of both biotic(living creatures) and abiotic components like temperature, rainfall, wind, soil etc.</p>
+  <a href="https://neostencil.com/uploads1/2018/03/Classification-of-Ecosystems.jpg">Flow Chart </a>
+  <p>All living organisms are classified on the basis nutrition.</p>
+<ol><li><u>Producers :</u> All green plants, blue green algae can produce their food (Sugar & starch) from inorganic substance using light energy (Photosynthesis).</li>
+  <li><u>Consumers :</u> Include organisms which depend on the producers either directly or indirectly for their sustenance. Consumers depend on others for food.</li>
+  <li><u>Decomposeres :</u> Fungi & Bacterias which break down(decompose) the dead plant,animals complex compounds into the simpler one. Thus decomposeres help in the replenishment.</li>
+  <li><u>Food Chain :</u> It is the sequence of living organisms in which one organism consumes another organism for energy. It is unidirectional(single directional).</li>
+  <a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi2.wp.com%2Fwww.butterflyfields.com%2Fwp-content%2Fuploads%2F2019%2F12%2FHow-to-introduce-%25E2%2580%2598Food-Chain-%25E2%2580%2593-Interdependence-in-Living-Beings%25E2%2580%2599-in-an-interesting-way-t.jpg%3Ffit%3D1024%252C1024%26ssl%3D1&imgrefurl=https%3A%2F%2Fwww.butterflyfields.com%2Fhow-to-introduce-food-chain-interdependence-in-living-beings-in-an-interesting-way%2F&tbnid=Lpzy7NJTxb_KnM&vet=12ahUKEwiaxqDaoPzpAhVH7TgGHUOUBIQQMygdegUIARCQAg..i&docid=hA0EAdxIff0guM&w=1024&h=1024&q=food%20chain&ved=2ahUKEwiaxqDaoPzpAhVH7TgGHUOUBIQQMygdegUIARCQAg"> Image</a>
+  <ul>
+    <li>In a food chain, various steps where transfer of energy takes place is called a trophic level.</li>
+    <li>The green plants capture 1% of sun’s energy.</li>
+    <li>The flow of energy is unidirectional in a food chain.</li>
+    <li>There is gradual decrease in the amount of energy from one trophic level to next trophic level in a food chain.</li>
+  <a href="https://www.google.com/url?sa=i&url=http%3A%2F%2Fbiotigers.weebly.com%2Ftropic-pyramid--food-web.html&psig=AOvVaw1hvOi10tYPtmE0BO5XpCKA&ust=1592050577276000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDflcyh_OkCFQAAAAAdAAAAABAJ">Tropic Pyramid </a>  
+  </ul>
+  </ol>
+  </header>
+  
+  <body id="body">
+  <h3>ENVIRONMENTAL PROBLEMS</h3>
+
+<ul><p>Changes in environment affect us and our activities change the environment around us. Environmental problems caused by humans:</p>
+  <li> depletion of the Ozone Layer and waste disposal.</li>
+  <li> pollution due to mismanagement of waste disposal.</li>
+  </ul>
+<ol><li> Depletion of Ozone Layer</li>
+
+<li>Ozone (O3) layer is largely found in the stratosphere which is a part ofour atmosphere from 12 km – 50km above sea level.</li>
+ <li> Ozone is a deadly poison at the ground level.</li>
+<li>Ozone layer is a protective blanket around earth which absorbs most of the harmful U.V. (Ultraviolet) radiation of the Sun, thus protecting the living beings of the earth from health hazards like skin cancer, cataract in eyes, weaken immune system, destruction of plants etc.</li>
+<li>The decline of Ozone layer thickness in Antartica was first observed in 1985 and was termed as <u>OZONE HOLE</u>.</li>
+  </ol>
+  
+  <h4>
+    Reason of Ozone Depletion</h4>
+
+<p>Excessive use of CFCs (Chloro Flouro Carbon) a synthetic, inert chemical E.g. Freon which are used as refrigerants and in fire extinguishers, caused Ozone depletion in the upper atmosphere. A single chlorine atom can destroys 1,00,000 Ozone molecules. U.N.E.P. (United Nation Environment Programme)did an excellent job in forging an agreement to freeze CFC production at 1986 levels (KYOTO Protocol) by all countries.</p>
+
+  <h4>Garbage Disposal</h4>
+
+<p>Industrialization and rise in demand of consumer goods have created a major problem in the form of wastes/garbage accumulation and its disposal specially in urban area.
+  </p>
+<p>The different methods of solid wastes disposal commonly used around
+
+  the world are.</p>
+<ol>
+  <li> <u>Open dumping :</u> A conventional method in which solid wastes dumped in selected areas of a town. It actually cause pollution
+  </li>
+<li> <u>Land fillings :</u> Wastes are dumped in low living area and are compacted by rolling with bulldozers
+  </li>
+<li><u>Composting :</u> Organic wastes are filled into a compost pit (2m × 1m× 1m). It is then covered with a thin layer of soil. After about three months the same garbage filled inside the pit changes into organic manure.
+  </li>
+<li> <u>Recycling :</u> The solid wastes is broken down into its constituent simpler materials. These materials are then used to make new items. Even non-bio degradable solid wastes like plastic, metal can be recycled.
+  </li>
+<li> <u>Reuse :</u> A very simple conventional technique of using an item again& again. For e.g. paper can be reused for making envelops etc.
+  </li>
+  </ol>
+  <footer id="conclusion">
+    <h3><u> Conclusion: </u></h3>
+    <ul>
+      <li>The various components of an ecosystem are interdependent.</li>
+<li>The producers make the energy from sunlight available to the rest of the ecosystem.</li>
+<li>There is a loss of energy as we go from one trophic level to the next, this limits the number of trophic levels in a food-chain.</li>
+<li>Human activities have an impact on the environment.</li>
+<li.The use of chemicals like CFCs has endangered the ozone layer. Since the ozone layer protects against the ultraviolet radiation from the Sun, this could damage the environment.</li>
+<li>The waste we generate may be biodegradable or non-biodegradable.</li>
+    <li>The disposal of the waste we generate is causing serious environmental problems.</li>
+  </footer>
+  </body>
+</html>
